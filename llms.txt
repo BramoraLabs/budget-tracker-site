@@ -25,5 +25,5 @@ Key facts:
 - [Budgeting on a Dubai Salary](https://mohammedajmal-tech.github.io/budget-tracker-site/guides/budgeting-on-a-dubai-salary.html): worked budget breakdown example
 - [How to Track Expenses Without Linking Your Bank Account](https://mohammedajmal-tech.github.io/budget-tracker-site/guides/track-expenses-without-bank-linking.html): what bank-linking grants access to, and how to track spending without it
 - [Offline Expense Tracking: How It Works and Why It Matters](https://mohammedajmal-tech.github.io/budget-tracker-site/guides/offline-expense-tracker-no-internet.html): what "offline" actually means for a budgeting app
-- [Privacy Policy](https://mohammedajmal-tech.github.io/budget-tracker-legal/privacy.html)
-- [Terms](https://mohammedajmal-tech.github.io/budget-tracker-legal/terms.html)
+- [Privacy Policy](https://bramoralabs.github.io/budget-tracker-legal/privacy.html)
+- [Terms](https://bramoralabs.github.io/budget-tracker-legal/terms.html)
