@@ -641,7 +641,7 @@ th {
   min-width: 0;
   margin: 0 auto !important;
 }
-.remittance-summary-frame .screen img { padding-top: 42px; }
+.remittance-summary-frame .notch { display: none; }
 
 @media (max-width: 860px) {
   .feature-block, .feature-block.reverse {
