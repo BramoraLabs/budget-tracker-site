@@ -628,6 +628,18 @@ th {
   font-size: 1.05rem;
   line-height: 1.6;
 }
+.remittance-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  max-width: 560px;
+  margin: 0 auto;
+}
+.remittance-gallery .device-frame {
+  max-width: 220px !important;
+  width: 100%;
+  margin: 0 auto !important;
+}
 
 @media (max-width: 860px) {
   .feature-block, .feature-block.reverse {
@@ -636,6 +648,7 @@ th {
   }
   .feature-block .fb-media { max-width: 300px; margin: 0 auto; }
   .feature-block .fb-text { text-align: center; }
+  .feature-block .remittance-gallery { max-width: 340px; }
 }
 
 .chip-grid {
