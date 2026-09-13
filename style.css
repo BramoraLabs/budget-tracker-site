@@ -638,6 +638,7 @@ th {
 .remittance-gallery .device-frame {
   max-width: 220px !important;
   width: 100%;
+  min-width: 0;
   margin: 0 auto !important;
 }
 
@@ -646,9 +647,9 @@ th {
     flex-direction: column;
     gap: 36px;
   }
-  .feature-block .fb-media { max-width: 300px; margin: 0 auto; }
+  .feature-block .fb-media { max-width: min(100%, 440px); margin: 0 auto; }
   .feature-block .fb-text { text-align: center; }
-  .feature-block .remittance-gallery { max-width: 340px; }
+  .feature-block .remittance-gallery { max-width: 100%; gap: 12px; }
 }
 
 .chip-grid {
