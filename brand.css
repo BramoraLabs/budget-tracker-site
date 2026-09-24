@@ -128,6 +128,7 @@ img{display:block;max-width:100%;height:auto}
 .footer-top a:hover{color:white;text-decoration:underline}
 .footer-name{font-size:clamp(45px,11vw,170px);display:flex;align-items:center;justify-content:space-between;line-height:1.15;font-weight:500;letter-spacing:-.075em;text-decoration:none;text-transform:capitalize;padding-bottom:30px;white-space:nowrap}
 .project-link{display:grid;color:inherit;text-decoration:none;cursor:pointer}
+.project-feature.project-link{color:#f6f5f0}
 .project-link:focus-visible{outline-color:#cfddbe}
 .footer-name span{font-size:.6em;color:#b8c3aa}
 .footer-bottom{border-top:1px solid #555d4e;padding-top:23px;display:flex;justify-content:space-between;gap:18px;color:#b8c1b0;font-size:10px}
