@@ -1,10 +1,10 @@
 # Bramora Labs
 
-> Bramora Labs is an independent, one-person software studio based in the UAE. Its first app is Budget Tracker. This website introduces the studio, its projects, product details, support and budgeting guides.
+> Bramora Labs is an independent, one-person software studio building thoughtful apps for everyday life. Its first app is Budget Tracker. This website introduces the studio, its projects, product details, support and budgeting guides.
 
 ## Budget Tracker
 
-> Budget Tracker is a free, offline budgeting app built for GCC expats. It handles multi-currency accounts, a built-in Zakat calculator, and dedicated remittance tracking, storing everything in an encrypted local database with no bank linking, no ads, and no subscription. Made by Bramora Labs, an independent one-person studio based in the UAE.
+> Budget Tracker is a free, offline budgeting app built for GCC expats. It handles multi-currency accounts, a built-in Zakat calculator, and dedicated remittance tracking, storing everything in an encrypted local database with no bank linking, no ads, and no subscription. Made by Bramora Labs, an independent one-person software studio.
 
 Key facts:
 - Platform: Android (Google Play), via Expo/React Native
@@ -13,7 +13,7 @@ Key facts:
 - Currencies: 140+, with AED, SAR, QAR, KWD, BHD, OMR pinned
 - Privacy: on-device SQLCipher-encrypted storage, no bank linking, no ad SDK, no analytics/crash SDK
 - Zakat calculation: 2.5% of net zakatable wealth (cash, gold, silver, investments, money owed minus debts), checked against gold (~85g) or silver (~595g) nisab
-- Publisher: Bramora Labs, UAE
+- Publisher: Bramora Labs
 - Contact: bramoralabsupport@gmail.com
 
 ## Pages
