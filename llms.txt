@@ -32,5 +32,7 @@ Key facts:
 - [Budgeting on a Dubai Salary](https://bramoralabs.github.io/budget-tracker-site/guides/budgeting-on-a-dubai-salary.html): worked budget breakdown example
 - [How to Track Expenses Without Linking Your Bank Account](https://bramoralabs.github.io/budget-tracker-site/guides/track-expenses-without-bank-linking.html): what bank-linking grants access to, and how to track spending without it
 - [Offline Expense Tracking: How It Works and Why It Matters](https://bramoralabs.github.io/budget-tracker-site/guides/offline-expense-tracker-no-internet.html): what "offline" actually means for a budgeting app
+- [How to Save for Umrah, Hajj or a Trip Home](https://bramoralabs.github.io/budget-tracker-site/guides/save-for-umrah-or-a-trip-home.html): goal-based savings method with a worked AED example and how Budget Tracker's goals work
+- [Budget Tracker Home-Screen Widgets](https://bramoralabs.github.io/budget-tracker-site/guides/budget-tracker-home-screen-widgets.html): how to add the spending and goal widgets on Android, show more than one goal, hide amounts
 - [Privacy Policy](https://bramoralabs.github.io/budget-tracker-legal/privacy.html)
 - [Terms](https://bramoralabs.github.io/budget-tracker-legal/terms.html)
