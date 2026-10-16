@@ -4,14 +4,14 @@
 
 ## Budget Tracker
 
-> Budget Tracker is a free, offline budgeting app built for GCC expats. It handles multi-currency accounts, a built-in Zakat calculator, and dedicated remittance tracking, storing everything in an encrypted local database with no bank linking, no ads, and no subscription. Made by Bramora Labs, an independent one-person software studio.
+> Budget Tracker is an Android budgeting app for GCC expats. It handles budgets, savings goals, home-screen widgets, multi-currency accounts, a built-in Zakat calculator and remittance records, and stores everything in an encrypted local database with no bank linking and no ads. It is free to use with an optional one-time Pro purchase. Made by Bramora Labs, an independent one-person software studio.
 
 Key facts:
-- Platform: Android (Google Play), via Expo/React Native
+- Platform: Android (Google Play): https://play.google.com/store/apps/details?id=com.mohammedajmal.budgettracker
 - Package: com.mohammedajmal.budgettracker
-- Pricing: free core app; one-time (not subscription) Pro unlock for CSV/Excel export and PDF reports
+- Pricing: free to use (up to 2 savings goals, widgets, backups); optional one-time (not subscription) Pro purchase for unlimited savings goals, CSV/Excel export and monthly PDF reports
 - Currencies: 140+, with AED, SAR, QAR, KWD, BHD, OMR pinned
-- Privacy: on-device SQLCipher-encrypted storage, no bank linking, no ad SDK, no analytics/crash SDK
+- Privacy: on-device SQLCipher-encrypted storage, no bank linking, no ad SDK, no analytics SDK; purchase status is checked through Google Play and RevenueCat (see the app privacy policy)
 - Zakat calculation: 2.5% of net zakatable wealth (cash, gold, silver, investments, money owed minus debts), checked against gold (~85g) or silver (~595g) nisab
 - Publisher: Bramora Labs
 - Contact: bramoralabsupport@gmail.com
@@ -20,7 +20,7 @@ Key facts:
 
 - [Home](https://bramoralabs.github.io/budget-tracker-site/): Bramora Labs studio and selected work
 - [Projects](https://bramoralabs.github.io/budget-tracker-site/projects.html): the studio's app collection
-- [Budget Tracker](https://bramoralabs.github.io/budget-tracker-site/budget-tracker.html): app features, pricing model, FAQ and launch signup
+- [Budget Tracker](https://bramoralabs.github.io/budget-tracker-site/budget-tracker.html): app features, pricing, FAQ and Google Play link
 - [Contact](https://bramoralabs.github.io/budget-tracker-site/contact.html): app support and studio contact
 - [About](https://bramoralabs.github.io/budget-tracker-site/about.html): who makes the app and why
 - [Guides](https://bramoralabs.github.io/budget-tracker-site/guides/index.html): index of all guides
